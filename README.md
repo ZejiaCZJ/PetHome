@@ -1,8 +1,14 @@
 # Pethome Pet Supplies Website
+![Pethome Logo](assets/petHome_Logo.png)
 
 ## Introduction
 
 Welcome to **Pethome**, your one-stop shop for high-quality pet supplies. Our website is dedicated to providing pet owners with the best products to ensure their pets live healthy and happy lives. Whether you have a dog, cat, or other small animal, we offer a wide selection of items tailored to meet the needs of your beloved pets.
+
+
+![Pethome MainPage_1](assets/mainPage.png)
+![Pethome MainPage_2](assets/page2.png)
+
 
 ## Features
 
